@@ -1,0 +1,18 @@
+分为三个等级：
+level_1 :   会执行python代码
+
+level_2 :   会编写功能性函数
+	1、从data文件夹中读取excel数据
+	2、将data文件夹中的数据进行分组统计并写入到result文件夹的excel文件中
+	3、将程序整理后的数据写入result文件夹的excel文件中的指定位置
+	4、将result文件夹中的excel文件通过邮件的形式发出来
+
+
+level_3 :   会整合功能性函数，实现一个可用的程序
+	整合level_2中的功能函数，执行主程序的时候能够自动将结果通过邮件的形式发出来
+
+
+
+https://www.cnblogs.com/xiaodai12138/p/10483158.html
+
+
