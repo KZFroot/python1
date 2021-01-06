@@ -64,7 +64,7 @@ if __name__ == '__main__':
     save_data_excel(df_group)
     # 将result_2.xlsx通过邮箱发送到'576591043@qq.com'
     # (from_mail_pass已经屏蔽，可以自己设置）教程见网址https://www.cnblogs.com/xiaodai12138/p/10483158.html
-    report_send_email('C:/Users/KZF/Desktop/test1/result/result_2.xlsx','1369157509@qq.com','15172054680@163.com','BTHSVBTDJRABAUOJ')
+    report_send_email('C:/Users/KZF/Desktop/test1/result/result_2.xlsx','1369157509@qq.com','15172054680@163.com','RJUNSTDKWDMYWRLB')
 
 
 
